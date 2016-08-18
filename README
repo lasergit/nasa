@@ -1,0 +1,3 @@
+./cli.py dumps result to OUTPUT
+rake test - runs unit tests
+
